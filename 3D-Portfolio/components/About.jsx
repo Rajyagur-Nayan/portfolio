@@ -28,17 +28,21 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-          Hello! I&apos;m Rajyaguru Nayan, a passionate web developer and
-          problem solver. Currently, I&apos;m the Tech Team Lead at GDSC MVJCE,
-          and I&apos;m pursuing a B.E. degree in Computer Science and
-          Engineering at MVJ College Of Engineering in Bengaluru, India, with an
-          expected graduation year of 2025. I&apos;m a software developer with
-          experience in TypeScript, TailwindCSS, and JavaScript. I specialize in
-          frameworks such as React, Node.js, Next.js, React-Three-Fiber, and
-          Three.js. My knowledge extends to fundamental data structures and
-          algorithms, making me well-versed in frontend web development.
-          <br className="sm:block hidden" />
-          Let&apos;s collaborate to bring your ideas to life!
+          Hello, I’m Nayan. I am a freelancer with experience working on many
+          real-world projects, including school management systems, PDF
+          converters, hotel management websites, and more. I have participated
+          in 4+ hackathons, which have strengthened my problem-solving,
+          teamwork, and creative thinking skills. I completed my studies at
+          Shantilal Shah Engineering College (SSEC), Bhavnagar, under Gujarat
+          Technological University (GTU), where I built a strong foundation in
+          software development. On the technical side, I have expertise in
+          frontend technologies such as React, Next.js, Three.js, GSAP, and
+          other advanced tools for creating high-quality UI/UX and smooth
+          animations. On the backend, I have hands-on experience with SQL, PHP,
+          MongoDB, and other server-side technologies, enabling me to build
+          complete, scalable, and secure applications. Along with development, I
+          have strong communication skills that help me understand client needs
+          clearly and deliver the right solutions efficiently.
         </div>
         <div className="w-fit break-words">
           <Link
