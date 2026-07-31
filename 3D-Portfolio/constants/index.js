@@ -252,19 +252,19 @@ const experiences = [
     ],
   },
 
-  // {
-  //   title: "Frontend Developer",
-  //   company_name: "Tech team member at GDSC MVJCE",
-  //   icon: "/assets/company/gdsc-logo.svg",
-  //   iconBg: "#E6DEDD",
-  //   date: "February 2022 - July 2023",
-  //   points: [
-  //     "Successfully planned and executed induction programs, providing new members with crucial information about the organization's goals and values.",
-  //     "Demonstrated web development expertise by conducting CSS workshops, equipping participants with practical web design and styling skills.",
-  //     "Played a crucial role in promoting GDSC events and actively collaborated with cross-functional teams to deliver high-quality projects, fostering teamwork and innovation.",
-  //     "Actively engaged with the GDSC community, assisted in workshops, and contributed to planning and managing GDSC events, ensuring their success and growth.",
-  //   ],
-  // },
+  {
+    title: "Web Development Intern",
+    company_name: "BrainyBeam Info-Tech Pvt. Ltd., Ahmedabad",
+    icon: "/assets/company/gdsc-logo.svg", // Change to your logo path
+    iconBg: "#E6DEDD",
+    date: "jul- 2026 - 15-days", // Update with your actual internship dates
+    points: [
+      "Completed a 15-day internship focused on MERN Stack Web Development.",
+      "Worked with MongoDB, Express.js, React.js, and Node.js to understand full-stack application development.",
+      "Gained practical experience in frontend and backend integration, REST APIs, and database connectivity.",
+      "Improved problem-solving, debugging, and teamwork skills while working on real-world web development tasks.",
+    ],
+  },
 ];
 
 const testimonials = [
@@ -356,36 +356,7 @@ const projects = [
     source_code_link: "https://github.com/Rajyagur-Nayan/student-complaint.git",
     deployed_link: "https://student-complaint-eosin.vercel.app",
   },
-  // {
-  //   name: "GDSC Website",
-  //   description:
-  //     "Welcome to the official repository for the GDSC MVJCE Website, built with Next.js, Styled Components, and Prisma! This website serves as the central hub for all things tech-related at GDSC MVJCE. From insightful blog posts to incredible community projects, and from exciting tech events to getting to know our team, you'll find it all here.",
-  //   tags: [
-  //     {
-  //       name: "next.js",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "styled-components",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "three.js",
-  //       color: "pink-text-gradient",
-  //     },
-  //     {
-  //       name: "prisma",
-  //       color: "orange-text-gradient",
-  //     },
-  //     {
-  //       name: "framer-motion",
-  //       color: "yellow-text-gradient",
-  //     },
-  //   ],
-  //   image: "/assets/projects/gdsc-website.png",
-  //   source_code_link: "https://github.com/GDSC-MVJCE/gdscmvjce-website.git",
-  //   deployed_link: "https://gdscmvjce.vercel.app/",
-  // },
+
   {
     name: "Ai-Health-Assistant",
     description:
